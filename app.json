@@ -1,0 +1,6 @@
+{
+  "name": "disboardslashbumper",
+  "description": "Discord Auto Bumper (Slash Commands) for Disboard",
+  "repository": "https://github.com/bigdickvinci/disboardslashbumper/",
+  "keywords": ["python", "discord", "disboard", "bumper"]
+}
