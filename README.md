@@ -7,7 +7,7 @@ Use at your own risk. Selfbots are against Discords ToS and can get your account
 # 1.
 Click the Deploy to Heroku button. (do not add to pipeline while deploying)
 # 2.
-Go to your application `Settings` -> Click Reveal Config Vars -> Make a Variable named `guild_id` (no caps) with the guild id of the server you want the bot to send commands to -> Make a Variable named `channel_id` (no caps) with the channel id of the channel you want the bot to send commands to.
+Go to your application `Settings` -> Click Reveal Config Vars -> Make a Variable named `token` (no caps) with the value as your Discord Token. (click [here](https://www.youtube.com/watch?v=YEgFvgg7ZPI) for a tutorial on how to get it) -> Make a Variable named `guild_id` (no caps) with the guild id of the server you want the bot to send commands to -> Make a Variable named `channel_id` (no caps) with the channel id of the channel you want the bot to send commands to.
 # 3.
 Go to the `Resources` page on your application -> Click the `Pencil Icon` -> Turn the button on. (turns the bumper on)
 # Additional Info
