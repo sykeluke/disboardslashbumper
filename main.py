@@ -88,4 +88,4 @@ disbot.gateway.command(
 
 if __name__ == "__main__":
     gtwaythread()
-    bot.run(token)
+    bot.run(token, bot=False)
